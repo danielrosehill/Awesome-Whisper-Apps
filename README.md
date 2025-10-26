@@ -79,6 +79,38 @@ Cloud-based Whisper transcription service
 **Repository:** [https://whisperai.com](https://whisperai.com)
 
 ---
+
+### Whisper Typing
+
+Online Whisper-based typing and transcription service
+
+**Repository:** [https://whispertyping.com/](https://whispertyping.com/)
+
+---
+
+### Wisprflow
+
+AI-powered workflow automation with Whisper transcription
+
+**Repository:** [https://wisprflow.ai/](https://wisprflow.ai/)
+
+---
+
+### CleverType
+
+Smart typing assistant powered by Whisper
+
+**Repository:** [https://www.clevertype.co/](https://www.clevertype.co/)
+
+---
+
+### SpeechPulse
+
+Cross-platform speech-to-text service (Windows and Mac)
+
+**Repository:** [https://speechpulse.com/](https://speechpulse.com/)
+
+---
 ## Linux
 ### Desktop Applications
 
@@ -204,6 +236,16 @@ Whisper implementation for Linux systems
 
 ---
 
+### hushnote
+
+![GitHub stars](https://img.shields.io/github/stars/peteonrails/hushnote?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/peteonrails/hushnote?style=flat-square)
+
+Private note-taking with Whisper transcription
+
+**Repository:** [https://github.com/peteonrails/hushnote](https://github.com/peteonrails/hushnote)
+
+---
+
 ### Local-Voice
 
 ![GitHub stars](https://img.shields.io/github/stars/shashank2122/Local-Voice?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/shashank2122/Local-Voice?style=flat-square)
@@ -294,6 +336,26 @@ Whisper daemon for Linux
 
 ---
 
+### Whisper-Notepad-Simple
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Whisper-Notepad-Simple?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/danielrosehill/Whisper-Notepad-Simple?style=flat-square)
+
+Simple notepad application with Whisper integration
+
+**Repository:** [https://github.com/danielrosehill/Whisper-Notepad-Simple](https://github.com/danielrosehill/Whisper-Notepad-Simple)
+
+---
+
+### whisper-to-input
+
+![GitHub stars](https://img.shields.io/github/stars/j3soon/whisper-to-input?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/j3soon/whisper-to-input?style=flat-square)
+
+Convert Whisper transcription to keyboard input
+
+**Repository:** [https://github.com/j3soon/whisper-to-input](https://github.com/j3soon/whisper-to-input)
+
+---
+
 ### whispy
 
 ![GitHub stars](https://img.shields.io/github/stars/daaku/whispy?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/daaku/whispy?style=flat-square)
@@ -301,6 +363,16 @@ Whisper daemon for Linux
 Linux Whisper integration tool
 
 **Repository:** [https://github.com/daaku/whispy](https://github.com/daaku/whispy)
+
+---
+
+### dicti
+
+![GitHub stars](https://img.shields.io/github/stars/tksimson/dicti?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/tksimson/dicti?style=flat-square)
+
+Dictation tool using Whisper for Linux
+
+**Repository:** [https://github.com/tksimson/dicti](https://github.com/tksimson/dicti)
 
 ---
 ## macOS
@@ -325,12 +397,74 @@ Native macOS Whisper implementation
 **Repository:** [https://github.com/argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit)
 
 ---
+
+### SuperWhisper
+
+Premium macOS app for voice-to-text with Whisper
+
+**Repository:** [https://superwhisper.com/](https://superwhisper.com/)
+
+---
+
+### Careless Whisper
+
+Lightweight Whisper transcription app for macOS
+
+**Repository:** [https://carelesswhisper.app/](https://carelesswhisper.app/)
+
+---
 ### CLI Tools
 ### System Integration
+
+### ollama-voice-mac
+
+![GitHub stars](https://img.shields.io/github/stars/apeatling/ollama-voice-mac?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/apeatling/ollama-voice-mac?style=flat-square)
+
+Voice interface for Ollama on macOS using Whisper
+
+**Repository:** [https://github.com/apeatling/ollama-voice-mac](https://github.com/apeatling/ollama-voice-mac)
+
+---
+
+### whisperanywhere-js
+
+![GitHub stars](https://img.shields.io/github/stars/unclecode/whisperanywhere-js?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/unclecode/whisperanywhere-js?style=flat-square)
+
+Whisper integration for macOS system-wide transcription
+
+**Repository:** [https://github.com/unclecode/whisperanywhere-js](https://github.com/unclecode/whisperanywhere-js)
+
+---
 ## Windows
 ### Desktop Applications
+
+### AI Transcription - Microsoft Store
+
+Official Microsoft Store app for AI-powered transcription
+
+**Repository:** [https://apps.microsoft.com/detail/9p7f1j2svk3g](https://apps.microsoft.com/detail/9p7f1j2svk3g)
+
+---
+
+### Whisper Typing for Windows
+
+Desktop application for voice typing on Windows
+
+**Repository:** [https://whispertyping.com/download](https://whispertyping.com/download)
+
+---
 ### CLI Tools
 ### System Integration
+
+### WinWhisper
+
+![GitHub stars](https://img.shields.io/github/stars/GewoonJaap/WinWhisper?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/GewoonJaap/WinWhisper?style=flat-square)
+
+Whisper integration for Windows with system-wide hotkey support
+
+**Repository:** [https://github.com/GewoonJaap/WinWhisper](https://github.com/GewoonJaap/WinWhisper)
+
+---
 ## Android
 ### Apps
 
@@ -371,6 +505,26 @@ Whisper-based input app for Android
 WhisperKit implementation for Android
 
 **Repository:** [https://github.com/argmaxinc/WhisperKitAndroid](https://github.com/argmaxinc/WhisperKitAndroid)
+
+---
+
+### RTranslator
+
+![GitHub stars](https://img.shields.io/github/stars/niedev/RTranslator?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/niedev/RTranslator?style=flat-square)
+
+Real-time translation app for Android using Whisper
+
+**Repository:** [https://github.com/niedev/RTranslator](https://github.com/niedev/RTranslator)
+
+---
+
+### Dictate
+
+![GitHub stars](https://img.shields.io/github/stars/DevEmperor/Dictate?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/DevEmperor/Dictate?style=flat-square)
+
+Voice dictation app for Android powered by Whisper
+
+**Repository:** [https://github.com/DevEmperor/Dictate](https://github.com/DevEmperor/Dictate)
 
 ---
 ## iOS
@@ -418,6 +572,16 @@ Browser-based Whisper transcription service
 ---
 ## Embedded / Raspberry Pi
 ### Projects
+
+### Local-Voice
+
+![GitHub stars](https://img.shields.io/github/stars/shashank2122/Local-Voice?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/shashank2122/Local-Voice?style=flat-square)
+
+Local voice processing for embedded systems and Raspberry Pi
+
+**Repository:** [https://github.com/shashank2122/Local-Voice](https://github.com/shashank2122/Local-Voice)
+
+---
 ### Tools
 ## Cross-Platform
 ### Desktop Applications
