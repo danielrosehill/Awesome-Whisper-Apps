@@ -105,6 +105,7 @@ Choose based on your accuracy/speed requirements:
 
 **Mobile:**
 - [whisperIME](#whisperime) (Android) - Input method editor
+- [FUTO Keyboard](#futo-keyboard) (Android) - Offline keyboard with integrated on-device voice input
 - [Whisperboard](#whisperboard) (iOS) - Keyboard with Whisper
 
 ### SaaS Platforms & Cloud Services
@@ -225,6 +226,7 @@ Applications that work on Linux, macOS, and Windows:
 
 ### Android
 
+- **[FUTO Keyboard](https://keyboard.futo.org/)** ![GitHub stars](https://img.shields.io/github/stars/futo-org/android-keyboard?style=flat-square) - Privacy-focused offline keyboard with integrated on-device voice input; supports downloadable English and multilingual Whisper models ([voice input models](https://keyboard.futo.org/voice-input-models))
 - **[whisperIME](https://github.com/woheller69/whisperIME)** ![GitHub stars](https://img.shields.io/github/stars/woheller69/whisperIME?style=flat-square) - Input method editor
 - **[WhisperInput](https://github.com/alex-vt/WhisperInput)** ![GitHub stars](https://img.shields.io/github/stars/alex-vt/WhisperInput?style=flat-square) - Input app
 - **[WhisperKitAndroid](https://github.com/argmaxinc/WhisperKitAndroid)** ![GitHub stars](https://img.shields.io/github/stars/argmaxinc/WhisperKitAndroid?style=flat-square) - WhisperKit for Android
@@ -325,6 +327,4 @@ Tools for customizing Whisper models:
 - [awesome-openai-whisper (ancs21)](https://github.com/ancs21/awesome-openai-whisper)
 - [awesome-whisper (saharmor)](https://github.com/saharmor/awesome-whisper)
 - [awesome-whisper (oenu)](https://github.com/oenu/awesome-whisper)
-
-
 
