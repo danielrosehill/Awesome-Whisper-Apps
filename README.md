@@ -39,6 +39,7 @@ Top projects by community engagement and activity:
 | [whisper-writer](#whisper-writer) | Cross-platform | ![GitHub stars](https://img.shields.io/github/stars/savbell/whisper-writer?style=flat-square) | Voice-to-text for system-wide input |
 | [SuperWhisper](#superwhisper) | macOS | N/A | Premium Mac app for voice-to-text |
 | [WinWhisper](#winwhisper) | Windows | ![GitHub stars](https://img.shields.io/github/stars/GewoonJaap/WinWhisper?style=flat-square) | System-wide hotkey support for Windows |
+| [StarWhisper](https://starwhisper.ai) | Windows | N/A | Real-time desktop voice typing with GPU acceleration and offline mode |
 
 ### Model Variants & Performance
 | Project | Stars | Description |
@@ -102,6 +103,7 @@ Choose based on your accuracy/speed requirements:
 **Windows:**
 - [WinWhisper](#winwhisper) - System-wide hotkey support
 - [Whisper Typing for Windows](#whisper-typing-for-windows) - Desktop voice typing
+- [StarWhisper](https://starwhisper.ai) - Real-time desktop voice typing with GPU acceleration
 
 **Mobile:**
 - [whisperIME](#whisperime) (Android) - Input method editor
@@ -216,6 +218,7 @@ Applications that work on Linux, macOS, and Windows:
 
 #### Desktop Applications
 - **[AI Transcription](https://apps.microsoft.com/detail/9p7f1j2svk3g)** - Microsoft Store app
+- **[StarWhisper](https://starwhisper.ai)** - Real-time desktop voice typing with whisper.cpp, GPU acceleration, custom vocabulary, and offline mode. (Freemium)
 - **[Whisper Typing for Windows](https://whispertyping.com/download)** - Desktop voice typing
 
 #### System Integration
