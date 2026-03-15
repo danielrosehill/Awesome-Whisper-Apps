@@ -205,6 +205,7 @@ Applications that work on Linux, macOS, and Windows:
 - **[OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)** ![GitHub stars](https://img.shields.io/github/stars/Starmel/OpenSuperWhisper?style=flat-square) - Open-source Mac app
 - **[WhisperKit](https://github.com/argmaxinc/WhisperKit)** ![GitHub stars](https://img.shields.io/github/stars/argmaxinc/WhisperKit?style=flat-square) - Native macOS implementation
 - **[Careless Whisper](https://carelesswhisper.app/)** - Lightweight transcription app
+- **[FnKey](https://github.com/evoleinik/fnkey)** ![GitHub stars](https://img.shields.io/github/stars/evoleinik/fnkey?style=flat-square) - Hold-to-dictate menu bar app with Deepgram streaming and Groq Whisper backends
 
 #### System Integration
 - **[ollama-voice-mac](https://github.com/apeatling/ollama-voice-mac)** ![GitHub stars](https://img.shields.io/github/stars/apeatling/ollama-voice-mac?style=flat-square) - Voice interface for Ollama
