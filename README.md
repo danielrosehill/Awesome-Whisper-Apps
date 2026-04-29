@@ -87,6 +87,7 @@ Choose based on your accuracy/speed requirements:
 - [Buzz](#buzz) - Feature-rich desktop app
 - [whisper-writer](#whisper-writer) - System-wide voice-to-text
 - [whisper-dictation](#whisper-dictation) - Dictation application
+- [VoiceType](https://github.com/honeybee1023/voicetype) - Hotkey-driven voice-to-text with focus-aware text injection into any app, including terminals
 
 **Linux:**
 - [nerd-dictation](#nerd-dictation) - Hackable offline speech-to-text
@@ -163,6 +164,7 @@ Applications that work on Linux, macOS, and Windows:
 | [whisper-ui](https://github.com/schnoddelbotz/whisper-ui) | ![GitHub stars](https://img.shields.io/github/stars/schnoddelbotz/whisper-ui?style=flat-square) | Cross-platform desktop UI |
 | [whisper_dictation](https://github.com/themanyone/whisper_dictation) | ![GitHub stars](https://img.shields.io/github/stars/themanyone/whisper_dictation?style=flat-square) | Voice dictation tool |
 | [WhisperGUI](https://github.com/ADT109119/WhisperGUI) | ![GitHub stars](https://img.shields.io/github/stars/ADT109119/WhisperGUI?style=flat-square) | Simple GUI |
+| [VoiceType](https://github.com/honeybee1023/voicetype) | ![GitHub stars](https://img.shields.io/github/stars/honeybee1023/voicetype?style=flat-square) | Hotkey-driven voice-to-text with focus-aware injection into any text field |
 
 ### Linux
 
