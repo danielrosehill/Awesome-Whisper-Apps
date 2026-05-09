@@ -217,6 +217,7 @@ Applications that work on Linux, macOS, and Windows:
 
 #### Desktop Applications
 - **[AI Transcription](https://apps.microsoft.com/detail/9p7f1j2svk3g)** - Microsoft Store app
+- **[dictate.app](https://dictate-app.pages.dev)** - Push-to-talk via Groq Whisper. ~200ms latency, auto-pastes at cursor, 7-day trial.
 - **[Whisper Typing for Windows](https://whispertyping.com/download)** - Desktop voice typing
 
 #### System Integration
