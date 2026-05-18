@@ -217,6 +217,7 @@ Applications that work on Linux, macOS, and Windows:
 
 #### Desktop Applications
 - **[AI Transcription](https://apps.microsoft.com/detail/9p7f1j2svk3g)** - Microsoft Store app
+- **[speech-to-text-zh](https://github.com/yystudio-cyber/speech-to-text-zh)** ![GitHub stars](https://img.shields.io/github/stars/yystudio-cyber/speech-to-text-zh?style=flat-square) - Chinese Windows GUI and CLI with Word, TXT, SRT, and JSON output
 - **[Whisper Typing for Windows](https://whispertyping.com/download)** - Desktop voice typing
 
 #### System Integration
