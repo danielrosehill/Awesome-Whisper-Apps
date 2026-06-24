@@ -221,6 +221,7 @@ Applications that work on Linux, macOS, and Windows:
 
 #### System Integration
 - **[WinWhisper](https://github.com/GewoonJaap/WinWhisper)** ![GitHub stars](https://img.shields.io/github/stars/GewoonJaap/WinWhisper?style=flat-square) - System-wide hotkey support
+- **[Whisper Vox](https://github.com/whisper-vox/whisper-vox)** ![GitHub stars](https://img.shields.io/github/stars/whisper-vox/whisper-vox?style=flat-square) - Hold-a-key dictation that types into any app (GPL-3.0, system tray, 99 languages)
 
 ---
 
