@@ -37,6 +37,7 @@ Top projects by community engagement and activity:
 |---------|----------|-------|-------------|
 | [Buzz](#buzz) | Cross-platform | ![GitHub stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=flat-square) | Feature-rich desktop transcription app |
 | [whisper-writer](#whisper-writer) | Cross-platform | ![GitHub stars](https://img.shields.io/github/stars/savbell/whisper-writer?style=flat-square) | Voice-to-text for system-wide input |
+| [OpenTypeless](https://github.com/tover0314-w/opentypeless) | Cross-platform | ![GitHub stars](https://img.shields.io/github/stars/tover0314-w/opentypeless?style=flat-square) | AI voice typing across desktop apps |
 | [SuperWhisper](#superwhisper) | macOS | N/A | Premium Mac app for voice-to-text |
 | [WinWhisper](#winwhisper) | Windows | ![GitHub stars](https://img.shields.io/github/stars/GewoonJaap/WinWhisper?style=flat-square) | System-wide hotkey support for Windows |
 
@@ -87,6 +88,7 @@ Choose based on your accuracy/speed requirements:
 - [Buzz](#buzz) - Feature-rich desktop app
 - [whisper-writer](#whisper-writer) - System-wide voice-to-text
 - [whisper-dictation](#whisper-dictation) - Dictation application
+- [OpenTypeless](https://github.com/tover0314-w/opentypeless) - AI voice typing across desktop apps
 
 **Linux:**
 - [nerd-dictation](#nerd-dictation) - Hackable offline speech-to-text
@@ -155,6 +157,7 @@ Applications that work on Linux, macOS, and Windows:
 |---------|-------|-------------|
 | [Buzz](https://github.com/chidiwilliams/buzz) | ![GitHub stars](https://img.shields.io/github/stars/chidiwilliams/buzz?style=flat-square) | Feature-rich transcription app |
 | [whisper-writer](https://github.com/savbell/whisper-writer) | ![GitHub stars](https://img.shields.io/github/stars/savbell/whisper-writer?style=flat-square) | Voice-to-text application |
+| [OpenTypeless](https://github.com/tover0314-w/opentypeless) | ![GitHub stars](https://img.shields.io/github/stars/tover0314-w/opentypeless?style=flat-square) | AI voice typing across desktop apps |
 | [faster-whisper-GUI](https://github.com/CheshireCC/faster-whisper-GUI) | ![GitHub stars](https://img.shields.io/github/stars/CheshireCC/faster-whisper-GUI?style=flat-square) | GUI for faster-whisper |
 | [SoftWhisper](https://github.com/NullMagic2/SoftWhisper) | ![GitHub stars](https://img.shields.io/github/stars/NullMagic2/SoftWhisper?style=flat-square) | User-friendly GUI |
 | [speech-assistant](https://github.com/Mohamad-Hussein/speech-assistant) | ![GitHub stars](https://img.shields.io/github/stars/Mohamad-Hussein/speech-assistant?style=flat-square) | Speech assistant GUI |
@@ -326,6 +329,5 @@ Tools for customizing Whisper models:
 - [awesome-openai-whisper (ancs21)](https://github.com/ancs21/awesome-openai-whisper)
 - [awesome-whisper (saharmor)](https://github.com/saharmor/awesome-whisper)
 - [awesome-whisper (oenu)](https://github.com/oenu/awesome-whisper)
-
 
 
