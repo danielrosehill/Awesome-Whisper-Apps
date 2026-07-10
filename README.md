@@ -206,6 +206,7 @@ Applications that work on Linux, macOS, and Windows:
 - **[OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)** ![GitHub stars](https://img.shields.io/github/stars/Starmel/OpenSuperWhisper?style=flat-square) - Open-source Mac app
 - **[WhisperKit](https://github.com/argmaxinc/WhisperKit)** ![GitHub stars](https://img.shields.io/github/stars/argmaxinc/WhisperKit?style=flat-square) - Native macOS implementation
 - **[Careless Whisper](https://carelesswhisper.app/)** - Lightweight transcription app
+- **[Off Grid AI Desktop](https://github.com/off-grid-ai/off-grid-ai-desktop)** ![GitHub stars](https://img.shields.io/github/stars/off-grid-ai/off-grid-ai-desktop?style=flat-square) - Open-source (AGPL-3.0) macOS app with on-device voice dictation powered by whisper.cpp that types transcribed speech into any app; part of a fully-local AI suite (LLM chat, image gen, RAG)
 
 #### System Integration
 - **[ollama-voice-mac](https://github.com/apeatling/ollama-voice-mac)** ![GitHub stars](https://img.shields.io/github/stars/apeatling/ollama-voice-mac?style=flat-square) - Voice interface for Ollama
