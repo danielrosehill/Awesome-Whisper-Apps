@@ -204,6 +204,7 @@ Applications that work on Linux, macOS, and Windows:
 #### Desktop Applications
 - **[SuperWhisper](https://superwhisper.com/)** - Premium Mac voice-to-text app
 - **[OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)** ![GitHub stars](https://img.shields.io/github/stars/Starmel/OpenSuperWhisper?style=flat-square) - Open-source Mac app
+- **[ShengJi](https://github.com/maddylaneeee/ShengJi)** ![GitHub stars](https://img.shields.io/github/stars/maddylaneeee/ShengJi?style=flat-square) - Native macOS app for local transcription of microphones, media files, and Mac system audio, with editable transcripts and subtitle export
 - **[WhisperKit](https://github.com/argmaxinc/WhisperKit)** ![GitHub stars](https://img.shields.io/github/stars/argmaxinc/WhisperKit?style=flat-square) - Native macOS implementation
 - **[Careless Whisper](https://carelesswhisper.app/)** - Lightweight transcription app
 
@@ -326,6 +327,5 @@ Tools for customizing Whisper models:
 - [awesome-openai-whisper (ancs21)](https://github.com/ancs21/awesome-openai-whisper)
 - [awesome-whisper (saharmor)](https://github.com/saharmor/awesome-whisper)
 - [awesome-whisper (oenu)](https://github.com/oenu/awesome-whisper)
-
 
 
