@@ -117,6 +117,7 @@ Choose based on your accuracy/speed requirements:
 - [SpeechPulse](https://speechpulse.com/) - Cross-platform speech-to-text
 - [Blabby.ai](https://www.blabby.ai/) - Browser-based transcription
 - [Whipscribe](https://whipscribe.com) - Hosted Whisper API with URL ingestion (YouTube, podcasts), speaker diarization, word timestamps, multi-format export (txt/json/srt/vtt/docx), and an MCP server for Claude Desktop, Cursor, Windsurf
+- [Transcreve BR](https://www.brainiall.com/transcreve/transcricao) - Whisper-backed web transcription for Brazilian Portuguese with speaker separation and TXT/SRT/VTT export
 
 ### Subtitles & Captioning
 
@@ -326,6 +327,5 @@ Tools for customizing Whisper models:
 - [awesome-openai-whisper (ancs21)](https://github.com/ancs21/awesome-openai-whisper)
 - [awesome-whisper (saharmor)](https://github.com/saharmor/awesome-whisper)
 - [awesome-whisper (oenu)](https://github.com/oenu/awesome-whisper)
-
 
 
