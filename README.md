@@ -218,6 +218,7 @@ Applications that work on Linux, macOS, and Windows:
 #### Desktop Applications
 - **[AI Transcription](https://apps.microsoft.com/detail/9p7f1j2svk3g)** - Microsoft Store app
 - **[Whisper Typing for Windows](https://whispertyping.com/download)** - Desktop voice typing
+- **[VoxFlow](https://github.com/KnigguKniggu-droid/voxflow)** - Offline voice writing assistant: hold a hotkey, speak, and a local model writes it in your tone and types it in at your cursor. faster-whisper + Ollama, fully local.
 
 #### System Integration
 - **[WinWhisper](https://github.com/GewoonJaap/WinWhisper)** ![GitHub stars](https://img.shields.io/github/stars/GewoonJaap/WinWhisper?style=flat-square) - System-wide hotkey support
