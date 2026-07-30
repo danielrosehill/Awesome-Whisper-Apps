@@ -206,6 +206,7 @@ Applications that work on Linux, macOS, and Windows:
 - **[OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)** ![GitHub stars](https://img.shields.io/github/stars/Starmel/OpenSuperWhisper?style=flat-square) - Open-source Mac app
 - **[WhisperKit](https://github.com/argmaxinc/WhisperKit)** ![GitHub stars](https://img.shields.io/github/stars/argmaxinc/WhisperKit?style=flat-square) - Native macOS implementation
 - **[Careless Whisper](https://carelesswhisper.app/)** - Lightweight transcription app
+- **[Whisper Notes](https://whispernotes.app/)** - Offline transcription with speaker labels and system-wide voice typing
 
 #### System Integration
 - **[ollama-voice-mac](https://github.com/apeatling/ollama-voice-mac)** ![GitHub stars](https://img.shields.io/github/stars/apeatling/ollama-voice-mac?style=flat-square) - Voice interface for Ollama
@@ -238,6 +239,7 @@ Applications that work on Linux, macOS, and Windows:
 ### iOS
 
 - **[Whisperboard](https://github.com/Saik0s/Whisperboard)** ![GitHub stars](https://img.shields.io/github/stars/Saik0s/Whisperboard?style=flat-square) - iOS keyboard with Whisper integration
+- **[Whisper Notes](https://whispernotes.app/)** - Offline transcription with speaker labels for iPhone
 
 ---
 
