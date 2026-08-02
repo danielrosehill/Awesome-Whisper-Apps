@@ -220,6 +220,7 @@ Applications that work on Linux, macOS, and Windows:
 - **[Whisper Typing for Windows](https://whispertyping.com/download)** - Desktop voice typing
 
 #### System Integration
+- **[AI Dictation](https://github.com/writingmate/aidictation)** ![GitHub stars](https://img.shields.io/github/stars/writingmate/aidictation?style=flat-square) - Windows voice typing with a global shortcut and offline Whisper via Whisper.net; optional cloud transcription and cleanup
 - **[WinWhisper](https://github.com/GewoonJaap/WinWhisper)** ![GitHub stars](https://img.shields.io/github/stars/GewoonJaap/WinWhisper?style=flat-square) - System-wide hotkey support
 
 ---
