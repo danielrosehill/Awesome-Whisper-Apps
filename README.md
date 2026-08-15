@@ -142,6 +142,7 @@ Tools for transcribing meetings and generating notes:
 **Self-Hosted:**
 - **[Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI)** ![GitHub stars](https://img.shields.io/github/stars/jhj0517/Whisper-WebUI?style=flat-square) - Web interface for transcription
 - **[NeuroSandboxWebUI](https://github.com/Dartvauder/NeuroSandboxWebUI)** ![GitHub stars](https://img.shields.io/github/stars/Dartvauder/NeuroSandboxWebUI?style=flat-square) - Comprehensive web UI for AI models
+- **[AmicoScript](https://github.com/sim186/AmicoScript)** ![GitHub stars](https://img.shields.io/github/stars/sim186/AmicoScript?style=flat-square) - Transcription web UI with diarization, searchable library and local LLM analysis
 
 ---
 
@@ -163,6 +164,7 @@ Applications that work on Linux, macOS, and Windows:
 | [whisper-ui](https://github.com/schnoddelbotz/whisper-ui) | ![GitHub stars](https://img.shields.io/github/stars/schnoddelbotz/whisper-ui?style=flat-square) | Cross-platform desktop UI |
 | [whisper_dictation](https://github.com/themanyone/whisper_dictation) | ![GitHub stars](https://img.shields.io/github/stars/themanyone/whisper_dictation?style=flat-square) | Voice dictation tool |
 | [WhisperGUI](https://github.com/ADT109119/WhisperGUI) | ![GitHub stars](https://img.shields.io/github/stars/ADT109119/WhisperGUI?style=flat-square) | Simple GUI |
+| [AmicoScript](https://github.com/sim186/AmicoScript) | ![GitHub stars](https://img.shields.io/github/stars/sim186/AmicoScript?style=flat-square) | Transcription app with diarization and local LLM analysis |
 
 ### Linux
 
