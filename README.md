@@ -129,6 +129,7 @@ Generate subtitles and captions for videos:
 - **[whisper-subs](https://github.com/GhostNaN/whisper-subs)** ![GitHub stars](https://img.shields.io/github/stars/GhostNaN/whisper-subs?style=flat-square) - CLI for adding subtitles to videos
 - **[whisply](https://github.com/tsmdt/whisply)** ![GitHub stars](https://img.shields.io/github/stars/tsmdt/whisply?style=flat-square) - Automatic subtitle generation (Linux)
 - **[template-tiktok](https://github.com/remotion-dev/template-tiktok)** ![GitHub stars](https://img.shields.io/github/stars/remotion-dev/template-tiktok?style=flat-square) - TikTok-style captioning with Remotion
+- **[JQSubtitle](https://github.com/i3luegirl/jqsubtitle)** ![GitHub stars](https://img.shields.io/github/stars/i3luegirl/jqsubtitle?style=flat-square) - One-click SRT + SMI subtitles on Windows. Rebuilds lines from word-level timings rather than Whisper's segment boundaries, and translates into 15 languages. Free with a Gemini key, or fully offline via Ollama
 
 ### Meeting & Productivity
 
