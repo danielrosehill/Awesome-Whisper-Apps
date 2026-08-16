@@ -85,6 +85,7 @@ Choose based on your accuracy/speed requirements:
 
 **Cross-Platform:**
 - [Buzz](#buzz) - Feature-rich desktop app
+- [DictaFlow](https://dictaflow.io) - Whisper-based dictation for Windows, macOS, and iPhone with Citrix/RDP typing
 - [whisper-writer](#whisper-writer) - System-wide voice-to-text
 - [whisper-dictation](#whisper-dictation) - Dictation application
 
