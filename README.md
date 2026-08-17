@@ -163,6 +163,7 @@ Applications that work on Linux, macOS, and Windows:
 | [whisper-ui](https://github.com/schnoddelbotz/whisper-ui) | ![GitHub stars](https://img.shields.io/github/stars/schnoddelbotz/whisper-ui?style=flat-square) | Cross-platform desktop UI |
 | [whisper_dictation](https://github.com/themanyone/whisper_dictation) | ![GitHub stars](https://img.shields.io/github/stars/themanyone/whisper_dictation?style=flat-square) | Voice dictation tool |
 | [WhisperGUI](https://github.com/ADT109119/WhisperGUI) | ![GitHub stars](https://img.shields.io/github/stars/ADT109119/WhisperGUI?style=flat-square) | Simple GUI |
+| [YazSes](https://github.com/MSKazemi/yazses) | ![GitHub stars](https://img.shields.io/github/stars/MSKazemi/yazses?style=flat-square) | Offline hold-to-talk dictation daemon with voice commands and speaker-labelled meeting transcription |
 
 ### Linux
 
