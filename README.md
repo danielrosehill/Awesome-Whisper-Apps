@@ -95,6 +95,7 @@ Choose based on your accuracy/speed requirements:
 - [voice-typing-linux](#voice-typing-linux) - Voice typing integration
 
 **macOS:**
+- [OpenVoiceFlow](https://github.com/shimoverse/openvoiceflow) - On-device voice dictation
 - [SuperWhisper](#superwhisper) - Premium Mac voice-to-text app
 - [OpenSuperWhisper](#opensuperwhisper) - Open-source Mac app
 - [WhisperKit](#whisperkit) - Native macOS implementation
@@ -202,6 +203,7 @@ Applications that work on Linux, macOS, and Windows:
 ### macOS
 
 #### Desktop Applications
+- **[OpenVoiceFlow](https://github.com/shimoverse/openvoiceflow)** ![GitHub stars](https://img.shields.io/github/stars/shimoverse/openvoiceflow?style=flat-square) - On-device voice dictation with local transcription and optional text cleanup
 - **[SuperWhisper](https://superwhisper.com/)** - Premium Mac voice-to-text app
 - **[OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)** ![GitHub stars](https://img.shields.io/github/stars/Starmel/OpenSuperWhisper?style=flat-square) - Open-source Mac app
 - **[WhisperKit](https://github.com/argmaxinc/WhisperKit)** ![GitHub stars](https://img.shields.io/github/stars/argmaxinc/WhisperKit?style=flat-square) - Native macOS implementation
