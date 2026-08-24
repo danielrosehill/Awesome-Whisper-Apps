@@ -136,6 +136,7 @@ Tools for transcribing meetings and generating notes:
 
 - **[meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)** ![GitHub stars](https://img.shields.io/github/stars/Zackriya-Solutions/meeting-minutes?style=flat-square) - Generate meeting minutes
 - **[ScribeWizard](https://github.com/Bklieger/ScribeWizard)** ![GitHub stars](https://img.shields.io/github/stars/Bklieger/ScribeWizard?style=flat-square) - AI-powered note-taking
+- **[Earkeep](https://earkeep.com)** - Ambient meeting transcriber with always-on mic and system audio, local whisper.cpp transcription
 
 ### Web Interfaces
 
