@@ -136,6 +136,7 @@ Tools for transcribing meetings and generating notes:
 
 - **[meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)** ![GitHub stars](https://img.shields.io/github/stars/Zackriya-Solutions/meeting-minutes?style=flat-square) - Generate meeting minutes
 - **[ScribeWizard](https://github.com/Bklieger/ScribeWizard)** ![GitHub stars](https://img.shields.io/github/stars/Bklieger/ScribeWizard?style=flat-square) - AI-powered note-taking
+- **[Samuraizer](https://github.com/UladzKha/samuraizer-cli)** ![GitHub stars](https://img.shields.io/github/stars/UladzKha/samuraizer-cli?style=flat-square) - Local-first meeting transcription, summaries, action items and decisions — no cloud, powered by Whisper + Ollama.
 
 ### Web Interfaces
 
