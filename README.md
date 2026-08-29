@@ -100,6 +100,7 @@ Choose based on your accuracy/speed requirements:
 - [WhisperKit](#whisperkit) - Native macOS implementation
 
 **Windows:**
+- [SpeakType](#windows) - Hold-to-talk typing with offline Whisper and correction learning
 - [WinWhisper](#winwhisper) - System-wide hotkey support
 - [Whisper Typing for Windows](#whisper-typing-for-windows) - Desktop voice typing
 
@@ -217,6 +218,7 @@ Applications that work on Linux, macOS, and Windows:
 
 #### Desktop Applications
 - **[AI Transcription](https://apps.microsoft.com/detail/9p7f1j2svk3g)** - Microsoft Store app
+- **[SpeakType](https://github.com/wookat/speaktype)** ![GitHub stars](https://img.shields.io/github/stars/wookat/speaktype?style=flat-square) - Hold-a-hotkey voice typing into any Windows app. Offline whisper.cpp / SenseVoice / Parakeet, or any OpenAI-compatible Whisper API. Learns corrections from your edits. Phone-as-microphone. MIT.
 - **[Tania Dictée](https://github.com/elboKazQC/tania-dictee)** - Push-to-talk dictation (F6), pastes directly into the focused app. Runs Whisper offline, no cloud. Handles French-Quebec franglais. MIT.
 - **[Whisper Typing for Windows](https://whispertyping.com/download)** - Desktop voice typing
 
