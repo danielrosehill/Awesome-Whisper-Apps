@@ -143,6 +143,7 @@ Tools for transcribing meetings and generating notes:
 - **[Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI)** ![GitHub stars](https://img.shields.io/github/stars/jhj0517/Whisper-WebUI?style=flat-square) - Web interface for transcription
 - **[NeuroSandboxWebUI](https://github.com/Dartvauder/NeuroSandboxWebUI)** ![GitHub stars](https://img.shields.io/github/stars/Dartvauder/NeuroSandboxWebUI?style=flat-square) - Comprehensive web UI for AI models
 
+- **[LocalScribe](https://freelocaltranscription.com/)** - Browser-based local Whisper transcription for audio and video with timestamps, optional speaker labels, and TXT/SRT/VTT export
 ---
 
 ## By Platform
