@@ -217,6 +217,7 @@ Applications that work on Linux, macOS, and Windows:
 
 #### Desktop Applications
 - **[AI Transcription](https://apps.microsoft.com/detail/9p7f1j2svk3g)** - Microsoft Store app
+- **[ScribeDrop](https://github.com/DJsluxx/scribedrop)** - Drag-and-drop GUI for faster-whisper. Queues files or folders, outputs .txt/.srt/.vtt, runs on NVIDIA GPU or CPU. Offline after the model download. MIT.
 - **[Tania Dictée](https://github.com/elboKazQC/tania-dictee)** - Push-to-talk dictation (F6), pastes directly into the focused app. Runs Whisper offline, no cloud. Handles French-Quebec franglais. MIT.
 - **[Whisper Typing for Windows](https://whispertyping.com/download)** - Desktop voice typing
 
