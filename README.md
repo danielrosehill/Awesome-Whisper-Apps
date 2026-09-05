@@ -206,6 +206,7 @@ Applications that work on Linux, macOS, and Windows:
 - **[OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)** ![GitHub stars](https://img.shields.io/github/stars/Starmel/OpenSuperWhisper?style=flat-square) - Open-source Mac app
 - **[WhisperKit](https://github.com/argmaxinc/WhisperKit)** ![GitHub stars](https://img.shields.io/github/stars/argmaxinc/WhisperKit?style=flat-square) - Native macOS implementation
 - **[Careless Whisper](https://carelesswhisper.app/)** - Lightweight transcription app
+- **[Glimpse](https://github.com/glimpse-hq/Glimpse)** ![GitHub stars](https://img.shields.io/github/stars/glimpse-hq/Glimpse?style=flat-square) - On-device dictation with a custom dictionary and a transcript library
 
 #### System Integration
 - **[ollama-voice-mac](https://github.com/apeatling/ollama-voice-mac)** ![GitHub stars](https://img.shields.io/github/stars/apeatling/ollama-voice-mac?style=flat-square) - Voice interface for Ollama
@@ -219,6 +220,7 @@ Applications that work on Linux, macOS, and Windows:
 - **[AI Transcription](https://apps.microsoft.com/detail/9p7f1j2svk3g)** - Microsoft Store app
 - **[Tania Dictée](https://github.com/elboKazQC/tania-dictee)** - Push-to-talk dictation (F6), pastes directly into the focused app. Runs Whisper offline, no cloud. Handles French-Quebec franglais. MIT.
 - **[Whisper Typing for Windows](https://whispertyping.com/download)** - Desktop voice typing
+- **[Glimpse](https://github.com/glimpse-hq/Glimpse)** ![GitHub stars](https://img.shields.io/github/stars/glimpse-hq/Glimpse?style=flat-square) - On-device dictation with a custom dictionary and a transcript library
 
 #### System Integration
 - **[WinWhisper](https://github.com/GewoonJaap/WinWhisper)** ![GitHub stars](https://img.shields.io/github/stars/GewoonJaap/WinWhisper?style=flat-square) - System-wide hotkey support
