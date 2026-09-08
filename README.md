@@ -202,6 +202,7 @@ Applications that work on Linux, macOS, and Windows:
 ### macOS
 
 #### Desktop Applications
+- **[Dictámelo](https://github.com/sarrazola/dictamelo)** ![GitHub stars](https://img.shields.io/github/stars/sarrazola/dictamelo?style=flat-square) - MIT-licensed hold-to-talk dictation with local Whisper models and optional cloud providers (Apple Silicon)
 - **[SuperWhisper](https://superwhisper.com/)** - Premium Mac voice-to-text app
 - **[OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)** ![GitHub stars](https://img.shields.io/github/stars/Starmel/OpenSuperWhisper?style=flat-square) - Open-source Mac app
 - **[WhisperKit](https://github.com/argmaxinc/WhisperKit)** ![GitHub stars](https://img.shields.io/github/stars/argmaxinc/WhisperKit?style=flat-square) - Native macOS implementation
@@ -216,6 +217,7 @@ Applications that work on Linux, macOS, and Windows:
 ### Windows
 
 #### Desktop Applications
+- **[Dictámelo](https://github.com/sarrazola/dictamelo)** ![GitHub stars](https://img.shields.io/github/stars/sarrazola/dictamelo?style=flat-square) - MIT-licensed hold-to-talk dictation with local Whisper models and optional cloud providers (x64 and ARM64)
 - **[AI Transcription](https://apps.microsoft.com/detail/9p7f1j2svk3g)** - Microsoft Store app
 - **[Tania Dictée](https://github.com/elboKazQC/tania-dictee)** - Push-to-talk dictation (F6), pastes directly into the focused app. Runs Whisper offline, no cloud. Handles French-Quebec franglais. MIT.
 - **[Whisper Typing for Windows](https://whispertyping.com/download)** - Desktop voice typing
