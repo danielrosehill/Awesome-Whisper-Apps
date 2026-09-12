@@ -134,6 +134,7 @@ Generate subtitles and captions for videos:
 
 Tools for transcribing meetings and generating notes:
 
+- **[Botik](https://github.com/777genius/discord-meeting-assistant)** ![GitHub stars](https://img.shields.io/github/stars/777genius/discord-meeting-assistant?style=flat-square) - Self-hosted Discord meeting assistant with optional local Whisper
 - **[meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)** ![GitHub stars](https://img.shields.io/github/stars/Zackriya-Solutions/meeting-minutes?style=flat-square) - Generate meeting minutes
 - **[ScribeWizard](https://github.com/Bklieger/ScribeWizard)** ![GitHub stars](https://img.shields.io/github/stars/Bklieger/ScribeWizard?style=flat-square) - AI-powered note-taking
 
