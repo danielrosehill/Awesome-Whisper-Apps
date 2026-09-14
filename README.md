@@ -139,6 +139,9 @@ Tools for transcribing meetings and generating notes:
 
 ### Web Interfaces
 
+**Hosted:**
+- **[InstaScript](https://instascript.app)** ![GitHub stars](https://img.shields.io/github/stars/nickwebt800/instascript?style=flat-square) - Browser-based Whisper transcription with no file upload
+
 **Self-Hosted:**
 - **[Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI)** ![GitHub stars](https://img.shields.io/github/stars/jhj0517/Whisper-WebUI?style=flat-square) - Web interface for transcription
 - **[NeuroSandboxWebUI](https://github.com/Dartvauder/NeuroSandboxWebUI)** ![GitHub stars](https://img.shields.io/github/stars/Dartvauder/NeuroSandboxWebUI?style=flat-square) - Comprehensive web UI for AI models
