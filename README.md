@@ -114,6 +114,7 @@ Choose based on your accuracy/speed requirements:
 - [Whisper Typing](https://whispertyping.com/) - Online typing and transcription
 - [Wisprflow](https://wisprflow.ai/) - Workflow automation with transcription
 - [CleverType](https://www.clevertype.co/) - Smart typing assistant
+- [DictaFlow](https://dictaflow.io/) - Cross-platform push-to-talk dictation with custom vocabulary and Citrix/RDP typing
 - [SpeechPulse](https://speechpulse.com/) - Cross-platform speech-to-text
 - [Blabby.ai](https://www.blabby.ai/) - Browser-based transcription
 - [Whipscribe](https://whipscribe.com) - Hosted Whisper API with URL ingestion (YouTube, podcasts), speaker diarization, word timestamps, multi-format export (txt/json/srt/vtt/docx), and an MCP server for Claude Desktop, Cursor, Windsurf
