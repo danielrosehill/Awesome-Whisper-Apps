@@ -117,6 +117,7 @@ Choose based on your accuracy/speed requirements:
 - [SpeechPulse](https://speechpulse.com/) - Cross-platform speech-to-text
 - [Blabby.ai](https://www.blabby.ai/) - Browser-based transcription
 - [Whipscribe](https://whipscribe.com) - Hosted Whisper API with URL ingestion (YouTube, podcasts), speaker diarization, word timestamps, multi-format export (txt/json/srt/vtt/docx), and an MCP server for Claude Desktop, Cursor, Windsurf
+- [Uttera](https://uttera.ai) - EU-hosted, OpenAI-compatible speech-to-text and text-to-speech API with a flat-rate subscription.
 
 ### Subtitles & Captioning
 
@@ -264,6 +265,7 @@ Enhanced and optimized versions of Whisper:
 | [CrisperWhisper](https://github.com/nyrahealth/CrisperWhisper) | ![GitHub stars](https://img.shields.io/github/stars/nyrahealth/CrisperWhisper?style=flat-square) | Enhanced accuracy variant |
 | [whisper.net](https://github.com/sandrohanea/whisper.net) | ![GitHub stars](https://img.shields.io/github/stars/sandrohanea/whisper.net?style=flat-square) | .NET implementation |
 | [whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) | ![GitHub stars](https://img.shields.io/github/stars/FL33TW00D/whisper-turbo?style=flat-square) | High-performance implementation |
+| [Uttera STT (vLLM)](https://github.com/uttera/uttera-stt-vllm) | ![GitHub stars](https://img.shields.io/github/stars/uttera/uttera-stt-vllm?style=flat-square) | Self-hosted OpenAI-compatible server, continuous batching |
 
 ### Real-Time & Streaming
 
