@@ -136,6 +136,7 @@ Tools for transcribing meetings and generating notes:
 
 - **[meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)** ![GitHub stars](https://img.shields.io/github/stars/Zackriya-Solutions/meeting-minutes?style=flat-square) - Generate meeting minutes
 - **[ScribeWizard](https://github.com/Bklieger/ScribeWizard)** ![GitHub stars](https://img.shields.io/github/stars/Bklieger/ScribeWizard?style=flat-square) - AI-powered note-taking
+- **[Screenpipe](https://github.com/screenpipe/screenpipe)** - Local Whisper transcription of microphone and system audio, searchable screen/audio history, and meeting notes. Source-available under the Screenpipe Commercial License; configured cloud features can send context off-device.
 
 ### Web Interfaces
 
