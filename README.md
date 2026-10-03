@@ -117,6 +117,7 @@ Choose based on your accuracy/speed requirements:
 - [SpeechPulse](https://speechpulse.com/) - Cross-platform speech-to-text
 - [Blabby.ai](https://www.blabby.ai/) - Browser-based transcription
 - [Whipscribe](https://whipscribe.com) - Hosted Whisper API with URL ingestion (YouTube, podcasts), speaker diarization, word timestamps, multi-format export (txt/json/srt/vtt/docx), and an MCP server for Claude Desktop, Cursor, Windsurf
+- [ClipQuill](https://clipquill.com) - Browser-based transcription in 30 languages; audio is decoded and transcribed in the page and never uploaded
 
 ### Subtitles & Captioning
 
