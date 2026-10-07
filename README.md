@@ -198,6 +198,7 @@ Applications that work on Linux, macOS, and Windows:
 - **[s2t](https://github.com/franchesoni/s2t)** ![GitHub stars](https://img.shields.io/github/stars/franchesoni/s2t?style=flat-square) - Speech-to-text
 - **[Whisper-Notepad-Simple](https://github.com/danielrosehill/Whisper-Notepad-Simple)** ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Whisper-Notepad-Simple?style=flat-square) - Simple notepad app
 - **[Linux-AI-Assistant-scripts](https://github.com/samoylenkodmitry/Linux-AI-Assistant-scripts)** ![GitHub stars](https://img.shields.io/github/stars/samoylenkodmitry/Linux-AI-Assistant-scripts?style=flat-square) - AI assistant scripts
+- **[TuxWhisper](https://github.com/ialmajai/tuxwhisper)** ![GitHub stars](https://img.shields.io/github/stars/ialmajai/tuxwhisper?style=flat-square) - Hotkey dictation that works on GNOME Wayland
 
 ### macOS
 
