@@ -129,6 +129,7 @@ Generate subtitles and captions for videos:
 - **[whisper-subs](https://github.com/GhostNaN/whisper-subs)** ![GitHub stars](https://img.shields.io/github/stars/GhostNaN/whisper-subs?style=flat-square) - CLI for adding subtitles to videos
 - **[whisply](https://github.com/tsmdt/whisply)** ![GitHub stars](https://img.shields.io/github/stars/tsmdt/whisply?style=flat-square) - Automatic subtitle generation (Linux)
 - **[template-tiktok](https://github.com/remotion-dev/template-tiktok)** ![GitHub stars](https://img.shields.io/github/stars/remotion-dev/template-tiktok?style=flat-square) - TikTok-style captioning with Remotion
+- **[WhisperSubs](https://github.com/GeiserX/whisper-subs)** ![GitHub stars](https://img.shields.io/github/stars/GeiserX/whisper-subs?style=flat-square) - Jellyfin plugin that writes missing subtitles with local Whisper
 
 ### Meeting & Productivity
 
