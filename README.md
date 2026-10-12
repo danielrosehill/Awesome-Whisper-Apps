@@ -219,6 +219,7 @@ Applications that work on Linux, macOS, and Windows:
 - **[AI Transcription](https://apps.microsoft.com/detail/9p7f1j2svk3g)** - Microsoft Store app
 - **[Tania Dictée](https://github.com/elboKazQC/tania-dictee)** - Push-to-talk dictation (F6), pastes directly into the focused app. Runs Whisper offline, no cloud. Handles French-Quebec franglais. MIT.
 - **[Whisper Typing for Windows](https://whispertyping.com/download)** - Desktop voice typing
+- **[WhisperPress](https://github.com/b84330808/whisperpress)** ![GitHub stars](https://img.shields.io/github/stars/b84330808/whisperpress?style=flat-square) - Offline push-to-talk voice typing and voice notes, powered by whisper.cpp
 
 #### System Integration
 - **[WinWhisper](https://github.com/GewoonJaap/WinWhisper)** ![GitHub stars](https://img.shields.io/github/stars/GewoonJaap/WinWhisper?style=flat-square) - System-wide hotkey support
