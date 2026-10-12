@@ -128,6 +128,7 @@ Generate subtitles and captions for videos:
 - **[yt-whisper](https://github.com/m1guelpf/yt-whisper)** ![GitHub stars](https://img.shields.io/github/stars/m1guelpf/yt-whisper?style=flat-square) - YouTube transcription tool
 - **[whisper-subs](https://github.com/GhostNaN/whisper-subs)** ![GitHub stars](https://img.shields.io/github/stars/GhostNaN/whisper-subs?style=flat-square) - CLI for adding subtitles to videos
 - **[whisply](https://github.com/tsmdt/whisply)** ![GitHub stars](https://img.shields.io/github/stars/tsmdt/whisply?style=flat-square) - Automatic subtitle generation (Linux)
+- **[SubFlow](https://github.com/IcaroPv01/subflow)** ![GitHub stars](https://img.shields.io/github/stars/IcaroPv01/subflow?style=flat-square) - Fully local subtitle pipeline: transcribe, translate, clean and QC with anti-hallucination language check
 - **[template-tiktok](https://github.com/remotion-dev/template-tiktok)** ![GitHub stars](https://img.shields.io/github/stars/remotion-dev/template-tiktok?style=flat-square) - TikTok-style captioning with Remotion
 
 ### Meeting & Productivity
