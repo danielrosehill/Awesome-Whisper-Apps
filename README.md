@@ -134,6 +134,7 @@ Generate subtitles and captions for videos:
 
 Tools for transcribing meetings and generating notes:
 
+- **[Ledgeur](https://github.com/maxbeech/ledgeur)** ![GitHub stars](https://img.shields.io/github/stars/maxbeech/ledgeur?style=flat-square) - Meeting transcripts that stay on your own machine
 - **[meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)** ![GitHub stars](https://img.shields.io/github/stars/Zackriya-Solutions/meeting-minutes?style=flat-square) - Generate meeting minutes
 - **[ScribeWizard](https://github.com/Bklieger/ScribeWizard)** ![GitHub stars](https://img.shields.io/github/stars/Bklieger/ScribeWizard?style=flat-square) - AI-powered note-taking
 
