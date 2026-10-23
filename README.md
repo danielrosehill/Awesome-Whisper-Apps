@@ -136,6 +136,7 @@ Tools for transcribing meetings and generating notes:
 
 - **[meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)** ![GitHub stars](https://img.shields.io/github/stars/Zackriya-Solutions/meeting-minutes?style=flat-square) - Generate meeting minutes
 - **[ScribeWizard](https://github.com/Bklieger/ScribeWizard)** ![GitHub stars](https://img.shields.io/github/stars/Bklieger/ScribeWizard?style=flat-square) - AI-powered note-taking
+- **[Scribe Steep](https://getapps.cafe/app/scribesteep)** - Records both sides of a call or meeting and transcribes it locally with whisper.cpp, macOS and Windows (paid, closed-source)
 
 ### Web Interfaces
 
