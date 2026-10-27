@@ -129,6 +129,7 @@ Generate subtitles and captions for videos:
 - **[whisper-subs](https://github.com/GhostNaN/whisper-subs)** ![GitHub stars](https://img.shields.io/github/stars/GhostNaN/whisper-subs?style=flat-square) - CLI for adding subtitles to videos
 - **[whisply](https://github.com/tsmdt/whisply)** ![GitHub stars](https://img.shields.io/github/stars/tsmdt/whisply?style=flat-square) - Automatic subtitle generation (Linux)
 - **[template-tiktok](https://github.com/remotion-dev/template-tiktok)** ![GitHub stars](https://img.shields.io/github/stars/remotion-dev/template-tiktok?style=flat-square) - TikTok-style captioning with Remotion
+- **[Offcut](https://github.com/psuvraneel-cyber/OffCut)** ([Website](https://offcut-ai.pages.dev)) ![GitHub stars](https://img.shields.io/github/stars/psuvraneel-cyber/OffCut?style=flat-square) - Free, in-browser AI video clipper and caption generator running Whisper locally via WebGPU
 
 ### Meeting & Productivity
 
