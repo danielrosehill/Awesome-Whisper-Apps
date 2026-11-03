@@ -1,5 +1,7 @@
 # Awesome Whisper Apps
 
+**Write-up:** [My curated AI indexes on GitHub: what each list covers](https://blog.danielrosehill.com/posts/curated-ai-indexes-awesome-lists-agents-evals-voice-au87cm/)
+
 A curated collection of applications, tools, and resources built with [OpenAI Whisper](https://github.com/openai/whisper) - a robust automatic speech recognition (ASR) system trained on 680,000 hours of multilingual and multitask supervised data.
 
 ## Table of Contents
