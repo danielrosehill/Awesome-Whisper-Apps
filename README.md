@@ -220,6 +220,7 @@ Applications that work on Linux, macOS, and Windows:
 #### Desktop Applications
 - **[AI Transcription](https://apps.microsoft.com/detail/9p7f1j2svk3g)** - Microsoft Store app
 - **[Tania Dictée](https://github.com/elboKazQC/tania-dictee)** - Push-to-talk dictation (F6), pastes directly into the focused app. Runs Whisper offline, no cloud. Handles French-Quebec franglais. MIT.
+- **[VinPUT](https://github.com/lrakar/vinput-oss)** - Tap or hold F1 to dictate, typed into the focused app. Parakeet and Whisper models run offline on the PC; optional cloud models need your own key. GPL-3.0.
 - **[Whisper Typing for Windows](https://whispertyping.com/download)** - Desktop voice typing
 
 #### System Integration
