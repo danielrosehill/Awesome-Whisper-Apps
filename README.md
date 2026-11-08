@@ -208,6 +208,7 @@ Applications that work on Linux, macOS, and Windows:
 #### Desktop Applications
 - **[SuperWhisper](https://superwhisper.com/)** - Premium Mac voice-to-text app
 - **[OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)** ![GitHub stars](https://img.shields.io/github/stars/Starmel/OpenSuperWhisper?style=flat-square) - Open-source Mac app
+- **[Plainsay](https://github.com/conrader/plainsay)** ![GitHub stars](https://img.shields.io/github/stars/conrader/plainsay?style=flat-square) - Free MIT-licensed on-device Whisper/Parakeet dictation for Apple silicon Macs (macOS 14+)
 - **[WhisperKit](https://github.com/argmaxinc/WhisperKit)** ![GitHub stars](https://img.shields.io/github/stars/argmaxinc/WhisperKit?style=flat-square) - Native macOS implementation
 - **[Careless Whisper](https://carelesswhisper.app/)** - Lightweight transcription app
 - **[Weesper Neon Flow](https://weesperneonflow.ai/en)** - Dictation at the active cursor, with Whisper running locally. Offline once the model is installed. macOS 13+ and Windows 10/11. Commercial, with a 15-day trial and a limited free plan.
