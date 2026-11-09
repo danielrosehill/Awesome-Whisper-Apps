@@ -222,6 +222,7 @@ Applications that work on Linux, macOS, and Windows:
 
 #### Desktop Applications
 - **[AI Transcription](https://apps.microsoft.com/detail/9p7f1j2svk3g)** - Microsoft Store app
+- **[ClapClip AI Transcribe](https://www.clapclip.net/transcript)** - Free offline transcription of audio and video files with Whisper models running locally via whisper.cpp. Batch folder processing, TXT, SRT, VTT and DOCX export. Windows 10/11.
 - **[Tania Dictée](https://github.com/elboKazQC/tania-dictee)** - Push-to-talk dictation (F6), pastes directly into the focused app. Runs Whisper offline, no cloud. Handles French-Quebec franglais. MIT.
 - **[Weesper Neon Flow](https://weesperneonflow.ai/en)** - Dictation at the active cursor, with Whisper running locally. Offline once the model is installed. macOS 13+ and Windows 10/11. Commercial, with a 15-day trial and a limited free plan.
 - **[Whisper Typing for Windows](https://whispertyping.com/download)** - Desktop voice typing
