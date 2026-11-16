@@ -1,5 +1,7 @@
 # Awesome Whisper Apps
 
+**Write-up:** [My curated AI indexes on GitHub: what each list covers](https://blog.danielrosehill.com/posts/curated-ai-indexes-awesome-lists-agents-evals-voice-au87cm/)
+
 A curated collection of applications, tools, and resources built with [OpenAI Whisper](https://github.com/openai/whisper) - a robust automatic speech recognition (ASR) system trained on 680,000 hours of multilingual and multitask supervised data.
 
 ## Table of Contents
@@ -98,10 +100,12 @@ Choose based on your accuracy/speed requirements:
 - [SuperWhisper](#superwhisper) - Premium Mac voice-to-text app
 - [OpenSuperWhisper](#opensuperwhisper) - Open-source Mac app
 - [WhisperKit](#whisperkit) - Native macOS implementation
+- [Weesper Neon Flow](https://weesperneonflow.ai/en) - Local Whisper dictation at the cursor (commercial)
 
 **Windows:**
 - [WinWhisper](#winwhisper) - System-wide hotkey support
 - [Whisper Typing for Windows](#whisper-typing-for-windows) - Desktop voice typing
+- [Weesper Neon Flow](https://weesperneonflow.ai/en) - Local Whisper dictation at the cursor (commercial)
 
 **Mobile:**
 - [whisperIME](#whisperime) (Android) - Input method editor
@@ -123,6 +127,7 @@ Choose based on your accuracy/speed requirements:
 Generate subtitles and captions for videos:
 
 - **[auto-subs](https://github.com/tmoroney/auto-subs)** ![GitHub stars](https://img.shields.io/github/stars/tmoroney/auto-subs?style=flat-square) - Automatic subtitle generation
+- **[Captionshaper](https://github.com/hollowbit-dev/captionshaper)** ![GitHub stars](https://img.shields.io/github/stars/hollowbit-dev/captionshaper?style=flat-square) - Offline Mac and Windows app: word-timed subtitles and styled captions, SRT/VTT export
 - **[TeroSubtitler](https://github.com/URUWorks/TeroSubtitler)** ![GitHub stars](https://img.shields.io/github/stars/URUWorks/TeroSubtitler?style=flat-square) - Professional subtitle editor
 - **[whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube)** ![GitHub stars](https://img.shields.io/github/stars/ArthurFDLR/whisper-youtube?style=flat-square) - YouTube subtitle generation
 - **[yt-whisper](https://github.com/m1guelpf/yt-whisper)** ![GitHub stars](https://img.shields.io/github/stars/m1guelpf/yt-whisper?style=flat-square) - YouTube transcription tool
@@ -136,6 +141,7 @@ Tools for transcribing meetings and generating notes:
 
 - **[meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)** ![GitHub stars](https://img.shields.io/github/stars/Zackriya-Solutions/meeting-minutes?style=flat-square) - Generate meeting minutes
 - **[ScribeWizard](https://github.com/Bklieger/ScribeWizard)** ![GitHub stars](https://img.shields.io/github/stars/Bklieger/ScribeWizard?style=flat-square) - AI-powered note-taking
+- **[Recordist](https://recordist.app/download?from=awapps)** - Record and transcribe calls with Whisper on your own devices, with notes linked to the exact words
 - **[Screenpipe](https://github.com/screenpipe/screenpipe)** - Local Whisper transcription of microphone and system audio, searchable screen/audio history, and meeting notes. Source-available under the Screenpipe Commercial License; configured cloud features can send context off-device.
 
 ### Web Interfaces
@@ -207,6 +213,7 @@ Applications that work on Linux, macOS, and Windows:
 - **[OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)** ![GitHub stars](https://img.shields.io/github/stars/Starmel/OpenSuperWhisper?style=flat-square) - Open-source Mac app
 - **[WhisperKit](https://github.com/argmaxinc/WhisperKit)** ![GitHub stars](https://img.shields.io/github/stars/argmaxinc/WhisperKit?style=flat-square) - Native macOS implementation
 - **[Careless Whisper](https://carelesswhisper.app/)** - Lightweight transcription app
+- **[Weesper Neon Flow](https://weesperneonflow.ai/en)** - Dictation at the active cursor, with Whisper running locally. Offline once the model is installed. macOS 13+ and Windows 10/11. Commercial, with a 15-day trial and a limited free plan.
 
 #### System Integration
 - **[ollama-voice-mac](https://github.com/apeatling/ollama-voice-mac)** ![GitHub stars](https://img.shields.io/github/stars/apeatling/ollama-voice-mac?style=flat-square) - Voice interface for Ollama
@@ -219,6 +226,7 @@ Applications that work on Linux, macOS, and Windows:
 #### Desktop Applications
 - **[AI Transcription](https://apps.microsoft.com/detail/9p7f1j2svk3g)** - Microsoft Store app
 - **[Tania Dictée](https://github.com/elboKazQC/tania-dictee)** - Push-to-talk dictation (F6), pastes directly into the focused app. Runs Whisper offline, no cloud. Handles French-Quebec franglais. MIT.
+- **[Weesper Neon Flow](https://weesperneonflow.ai/en)** - Dictation at the active cursor, with Whisper running locally. Offline once the model is installed. macOS 13+ and Windows 10/11. Commercial, with a 15-day trial and a limited free plan.
 - **[Whisper Typing for Windows](https://whispertyping.com/download)** - Desktop voice typing
 
 #### System Integration
