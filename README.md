@@ -225,6 +225,7 @@ Applications that work on Linux, macOS, and Windows:
 #### Desktop Applications
 - **[AI Transcription](https://apps.microsoft.com/detail/9p7f1j2svk3g)** - Microsoft Store app
 - **[Tania Dictée](https://github.com/elboKazQC/tania-dictee)** - Push-to-talk dictation (F6), pastes directly into the focused app. Runs Whisper offline, no cloud. Handles French-Quebec franglais. MIT.
+- **[Voxmelt](https://voxmelt.com)** - Hotkey dictation into any app with Parakeet v3 on the CPU or Whisper (tiny on the CPU, every size up to Large v3 Turbo on an NVIDIA GPU), and a public benchmark of both. Works offline once the models are downloaded. Windows 10/11. Commercial, with a 15-day trial and a free plan of 60 minutes a day.
 - **[Weesper Neon Flow](https://weesperneonflow.ai/en)** - Dictation at the active cursor, with Whisper running locally. Offline once the model is installed. macOS 13+ and Windows 10/11. Commercial, with a 15-day trial and a limited free plan.
 - **[Whisper Typing for Windows](https://whispertyping.com/download)** - Desktop voice typing
 
