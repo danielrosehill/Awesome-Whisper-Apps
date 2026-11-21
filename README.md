@@ -241,6 +241,7 @@ Applications that work on Linux, macOS, and Windows:
 - **[RTranslator](https://github.com/niedev/RTranslator)** ![GitHub stars](https://img.shields.io/github/stars/niedev/RTranslator?style=flat-square) - Real-time translation app
 - **[Dictate](https://github.com/DevEmperor/Dictate)** ![GitHub stars](https://img.shields.io/github/stars/DevEmperor/Dictate?style=flat-square) - Voice dictation app
 - **[whisper_android](https://github.com/vilassn/whisper_android)** ![GitHub stars](https://img.shields.io/github/stars/vilassn/whisper_android?style=flat-square) - Android integration
+- **[Inkear](https://simple-free-apps.github.io/#inkear)** - Offline Android speech-to-text transcription app using on-device Whisper models across ~99 languages with TXT/Markdown/SRT/VTT/PDF/JSON export (Paid)
 
 ---
 
