@@ -121,6 +121,7 @@ Choose based on your accuracy/speed requirements:
 - [SpeechPulse](https://speechpulse.com/) - Cross-platform speech-to-text
 - [Blabby.ai](https://www.blabby.ai/) - Browser-based transcription
 - [Whipscribe](https://whipscribe.com) - Hosted Whisper API with URL ingestion (YouTube, podcasts), speaker diarization, word timestamps, multi-format export (txt/json/srt/vtt/docx), and an MCP server for Claude Desktop, Cursor, Windsurf
+- [Video Transcriber](https://apify.com/pikoulas/video-transcriber) - Hosted faster-whisper on Apify: video and audio URLs, YouTube playlists and channels to text, with SRT/VTT subtitles and speaker labels; paid per audio minute
 
 ### Subtitles & Captioning
 
