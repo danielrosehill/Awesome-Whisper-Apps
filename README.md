@@ -142,6 +142,7 @@ Tools for transcribing meetings and generating notes:
 - **[meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)** ![GitHub stars](https://img.shields.io/github/stars/Zackriya-Solutions/meeting-minutes?style=flat-square) - Generate meeting minutes
 - **[ScribeWizard](https://github.com/Bklieger/ScribeWizard)** ![GitHub stars](https://img.shields.io/github/stars/Bklieger/ScribeWizard?style=flat-square) - AI-powered note-taking
 - **[Recordist](https://recordist.app/download?from=awapps)** - Record and transcribe calls with Whisper on your own devices, with notes linked to the exact words
+- **[OSTUM Desktop](https://github.com/Ranis2023/ostum-desktop)** ![GitHub stars](https://img.shields.io/github/stars/Ranis2023/ostum-desktop?style=flat-square) - Transcribe a recording locally on Windows, replay timestamped excerpts and export selected meeting actions
 
 ### Web Interfaces
 
