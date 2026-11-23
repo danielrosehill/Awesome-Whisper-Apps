@@ -128,6 +128,7 @@ Generate subtitles and captions for videos:
 
 - **[auto-subs](https://github.com/tmoroney/auto-subs)** ![GitHub stars](https://img.shields.io/github/stars/tmoroney/auto-subs?style=flat-square) - Automatic subtitle generation
 - **[Captionshaper](https://github.com/hollowbit-dev/captionshaper)** ![GitHub stars](https://img.shields.io/github/stars/hollowbit-dev/captionshaper?style=flat-square) - Offline Mac and Windows app: word-timed subtitles and styled captions, SRT/VTT export
+- **[Clipshaper](https://github.com/hollowbit-dev/clipshaper)** ![GitHub stars](https://img.shields.io/github/stars/hollowbit-dev/clipshaper?style=flat-square) - Offline Mac and Windows app: captions long videos with whisper.cpp and cuts them into short vertical clips
 - **[TeroSubtitler](https://github.com/URUWorks/TeroSubtitler)** ![GitHub stars](https://img.shields.io/github/stars/URUWorks/TeroSubtitler?style=flat-square) - Professional subtitle editor
 - **[whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube)** ![GitHub stars](https://img.shields.io/github/stars/ArthurFDLR/whisper-youtube?style=flat-square) - YouTube subtitle generation
 - **[yt-whisper](https://github.com/m1guelpf/yt-whisper)** ![GitHub stars](https://img.shields.io/github/stars/m1guelpf/yt-whisper?style=flat-square) - YouTube transcription tool
