@@ -213,6 +213,7 @@ Applications that work on Linux, macOS, and Windows:
 - **[WhisperKit](https://github.com/argmaxinc/WhisperKit)** ![GitHub stars](https://img.shields.io/github/stars/argmaxinc/WhisperKit?style=flat-square) - Native macOS implementation
 - **[Careless Whisper](https://carelesswhisper.app/)** - Lightweight transcription app
 - **[Weesper Neon Flow](https://weesperneonflow.ai/en)** - Dictation at the active cursor, with Whisper running locally. Offline once the model is installed. macOS 13+ and Windows 10/11. Commercial, with a 15-day trial and a limited free plan.
+- **[FlowSpeak](https://smolkapps.com/flowspeak/)** - Local Hold-Ctrl push-to-talk dictation desktop app for macOS (Apple Silicon Metal & Intel) and Linux x86_64 powered by whisper.cpp, with stutter cleanup and clipboard preservation.
 
 #### System Integration
 - **[ollama-voice-mac](https://github.com/apeatling/ollama-voice-mac)** ![GitHub stars](https://img.shields.io/github/stars/apeatling/ollama-voice-mac?style=flat-square) - Voice interface for Ollama
