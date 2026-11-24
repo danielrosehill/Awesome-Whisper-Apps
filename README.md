@@ -101,6 +101,7 @@ Choose based on your accuracy/speed requirements:
 - [OpenSuperWhisper](#opensuperwhisper) - Open-source Mac app
 - [WhisperKit](#whisperkit) - Native macOS implementation
 - [Weesper Neon Flow](https://weesperneonflow.ai/en) - Local Whisper dictation at the cursor (commercial)
+- [VoxtMini](https://github.com/hehehai/VoxtMini) - Open-source dictation at the cursor; Qwen3-ASR or (experimental) Whisper, local by default
 
 **Windows:**
 - [WinWhisper](#winwhisper) - System-wide hotkey support
@@ -213,6 +214,8 @@ Applications that work on Linux, macOS, and Windows:
 - **[WhisperKit](https://github.com/argmaxinc/WhisperKit)** ![GitHub stars](https://img.shields.io/github/stars/argmaxinc/WhisperKit?style=flat-square) - Native macOS implementation
 - **[Careless Whisper](https://carelesswhisper.app/)** - Lightweight transcription app
 - **[Weesper Neon Flow](https://weesperneonflow.ai/en)** - Dictation at the active cursor, with Whisper running locally. Offline once the model is installed. macOS 13+ and Windows 10/11. Commercial, with a 15-day trial and a limited free plan.
+- **[VoxtMini](https://github.com/hehehai/VoxtMini)** ![GitHub stars](https://img.shields.io/github/stars/hehehai/VoxtMini?style=flat-square) - Dictation in any app for Apple silicon Macs: speech is typed at the cursor, translated or rewritten. Runs Qwen3-ASR or Whisper (large-v3-turbo, large-v3, small; marked experimental) locally on MLX by default. Free, open source (Apache-2.0).
+- **[AudioSmith](https://github.com/hehehai/AudioSmith)** ![GitHub stars](https://img.shields.io/github/stars/hehehai/AudioSmith?style=flat-square) - Voice studio for Apple silicon Macs whose transcription uses Whisper large-v3 turbo (with Qwen3-ASR) on MLX, with word timings and speakers, alongside text to speech and dubbing. Free, open source (AGPL-3.0).
 
 #### System Integration
 - **[ollama-voice-mac](https://github.com/apeatling/ollama-voice-mac)** ![GitHub stars](https://img.shields.io/github/stars/apeatling/ollama-voice-mac?style=flat-square) - Voice interface for Ollama
