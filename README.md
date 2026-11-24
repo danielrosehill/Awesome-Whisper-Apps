@@ -121,6 +121,7 @@ Choose based on your accuracy/speed requirements:
 - [SpeechPulse](https://speechpulse.com/) - Cross-platform speech-to-text
 - [Blabby.ai](https://www.blabby.ai/) - Browser-based transcription
 - [Whipscribe](https://whipscribe.com) - Hosted Whisper API with URL ingestion (YouTube, podcasts), speaker diarization, word timestamps, multi-format export (txt/json/srt/vtt/docx), and an MCP server for Claude Desktop, Cursor, Windsurf
+- [AIAC](https://aiac.app) - Browser-local Whisper transcription (WebGPU/WASM, zero upload) and cloud Whisper workspace with timestamped editing, 18+ AI summary templates, interactive mind maps, Notion/Obsidian Markdown export, and 30-day public share links
 
 ### Subtitles & Captioning
 
