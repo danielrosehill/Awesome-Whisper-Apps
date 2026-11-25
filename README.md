@@ -106,6 +106,7 @@ Choose based on your accuracy/speed requirements:
 - [WinWhisper](#winwhisper) - System-wide hotkey support
 - [Whisper Typing for Windows](#whisper-typing-for-windows) - Desktop voice typing
 - [Weesper Neon Flow](https://weesperneonflow.ai/en) - Local Whisper dictation at the cursor (commercial)
+- [KeyStow](https://github.com/hullashoo6/keystow) - Local English push-to-talk dictation with paste-at-cursor; MIT source, paid packaged app
 
 **Mobile:**
 - [whisperIME](#whisperime) (Android) - Input method editor
@@ -335,6 +336,5 @@ Tools for customizing Whisper models:
 - [awesome-openai-whisper (ancs21)](https://github.com/ancs21/awesome-openai-whisper)
 - [awesome-whisper (saharmor)](https://github.com/saharmor/awesome-whisper)
 - [awesome-whisper (oenu)](https://github.com/oenu/awesome-whisper)
-
 
 
