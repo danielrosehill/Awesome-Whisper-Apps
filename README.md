@@ -127,6 +127,7 @@ Choose based on your accuracy/speed requirements:
 Generate subtitles and captions for videos:
 
 - **[auto-subs](https://github.com/tmoroney/auto-subs)** ![GitHub stars](https://img.shields.io/github/stars/tmoroney/auto-subs?style=flat-square) - Automatic subtitle generation
+- **[Captionshaper](https://github.com/hollowbit-dev/captionshaper)** ![GitHub stars](https://img.shields.io/github/stars/hollowbit-dev/captionshaper?style=flat-square) - Offline Mac and Windows app: word-timed subtitles and styled captions, SRT/VTT export
 - **[TeroSubtitler](https://github.com/URUWorks/TeroSubtitler)** ![GitHub stars](https://img.shields.io/github/stars/URUWorks/TeroSubtitler?style=flat-square) - Professional subtitle editor
 - **[whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube)** ![GitHub stars](https://img.shields.io/github/stars/ArthurFDLR/whisper-youtube?style=flat-square) - YouTube subtitle generation
 - **[yt-whisper](https://github.com/m1guelpf/yt-whisper)** ![GitHub stars](https://img.shields.io/github/stars/m1guelpf/yt-whisper?style=flat-square) - YouTube transcription tool
@@ -141,6 +142,7 @@ Tools for transcribing meetings and generating notes:
 - **[meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)** ![GitHub stars](https://img.shields.io/github/stars/Zackriya-Solutions/meeting-minutes?style=flat-square) - Generate meeting minutes
 - **[ScribeWizard](https://github.com/Bklieger/ScribeWizard)** ![GitHub stars](https://img.shields.io/github/stars/Bklieger/ScribeWizard?style=flat-square) - AI-powered note-taking
 - **[Murmury](https://github.com/GianlucaBave/murmury)** ![GitHub stars](https://img.shields.io/github/stars/GianlucaBave/murmury?style=flat-square) - Transcribes the other side of a video call on the Mac with Whisper (MLX) and shows short answers from your own documents
+- **[Recordist](https://recordist.app/download?from=awapps)** - Record and transcribe calls with Whisper on your own devices, with notes linked to the exact words
 
 ### Web Interfaces
 
