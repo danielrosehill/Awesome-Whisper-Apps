@@ -167,7 +167,6 @@ Applications that work on Linux, macOS, and Windows:
 | [whisper-ui](https://github.com/schnoddelbotz/whisper-ui) | ![GitHub stars](https://img.shields.io/github/stars/schnoddelbotz/whisper-ui?style=flat-square) | Cross-platform desktop UI |
 | [whisper_dictation](https://github.com/themanyone/whisper_dictation) | ![GitHub stars](https://img.shields.io/github/stars/themanyone/whisper_dictation?style=flat-square) | Voice dictation tool |
 | [WhisperGUI](https://github.com/ADT109119/WhisperGUI) | ![GitHub stars](https://img.shields.io/github/stars/ADT109119/WhisperGUI?style=flat-square) | Simple GUI |
-| [Whispy](https://usewhispy.com) | N/A | Desktop app for Apple Silicon Mac and Windows that transcribes a local audio file with whisper.cpp. Audio stays on the device. Core transcription is free; speaker labels and batch processing are on a paid plan. |
 
 ### Linux
 
@@ -212,6 +211,7 @@ Applications that work on Linux, macOS, and Windows:
 - **[WhisperKit](https://github.com/argmaxinc/WhisperKit)** ![GitHub stars](https://img.shields.io/github/stars/argmaxinc/WhisperKit?style=flat-square) - Native macOS implementation
 - **[Careless Whisper](https://carelesswhisper.app/)** - Lightweight transcription app
 - **[Weesper Neon Flow](https://weesperneonflow.ai/en)** - Dictation at the active cursor, with Whisper running locally. Offline once the model is installed. macOS 13+ and Windows 10/11. Commercial, with a 15-day trial and a limited free plan.
+- **[Whispy (usewhispy.com)](https://usewhispy.com)** - Local transcription app for Apple Silicon Macs and Windows. The AI runs on your computer and has no cloud mode. Not related to daaku/whispy.
 
 #### System Integration
 - **[ollama-voice-mac](https://github.com/apeatling/ollama-voice-mac)** ![GitHub stars](https://img.shields.io/github/stars/apeatling/ollama-voice-mac?style=flat-square) - Voice interface for Ollama
@@ -226,6 +226,7 @@ Applications that work on Linux, macOS, and Windows:
 - **[Tania Dictée](https://github.com/elboKazQC/tania-dictee)** - Push-to-talk dictation (F6), pastes directly into the focused app. Runs Whisper offline, no cloud. Handles French-Quebec franglais. MIT.
 - **[Weesper Neon Flow](https://weesperneonflow.ai/en)** - Dictation at the active cursor, with Whisper running locally. Offline once the model is installed. macOS 13+ and Windows 10/11. Commercial, with a 15-day trial and a limited free plan.
 - **[Whisper Typing for Windows](https://whispertyping.com/download)** - Desktop voice typing
+- **[Whispy (usewhispy.com)](https://usewhispy.com)** - Local transcription app for Apple Silicon Macs and Windows 10/11. The AI runs on your computer and has no cloud mode. Not related to daaku/whispy.
 
 #### System Integration
 - **[WinWhisper](https://github.com/GewoonJaap/WinWhisper)** ![GitHub stars](https://img.shields.io/github/stars/GewoonJaap/WinWhisper?style=flat-square) - System-wide hotkey support
