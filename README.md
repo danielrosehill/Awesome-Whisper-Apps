@@ -148,6 +148,7 @@ Tools for transcribing meetings and generating notes:
 **Self-Hosted:**
 - **[Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI)** ![GitHub stars](https://img.shields.io/github/stars/jhj0517/Whisper-WebUI?style=flat-square) - Web interface for transcription
 - **[NeuroSandboxWebUI](https://github.com/Dartvauder/NeuroSandboxWebUI)** ![GitHub stars](https://img.shields.io/github/stars/Dartvauder/NeuroSandboxWebUI?style=flat-square) - Comprehensive web UI for AI models
+- **[AIAC MP3 to Text](https://aiac.app/mp3-to-text/)** - Browser-local WebGPU/WebAssembly Whisper transcription with zero uploads and SRT/VTT/TXT export
 
 ---
 
